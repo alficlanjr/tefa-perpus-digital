@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" modified="2024-01-29T06:22:15.082Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LRfaJmRBHAYZEpoynKrw" version="23.0.2" type="github">
+  <diagram name="Page-1" id="t29qqXzdbBASpzOTirJw">
+    <mxGraphModel dx="1600" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY-AIXFyE-CHNUBA_yyD-1" target="OY-AIXFyE-CHNUBA_yyD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-1" value="User/pengunjung perpus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY-AIXFyE-CHNUBA_yyD-2" target="OY-AIXFyE-CHNUBA_yyD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY-AIXFyE-CHNUBA_yyD-2" target="OY-AIXFyE-CHNUBA_yyD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-2" value="masuk ke perpus" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY-AIXFyE-CHNUBA_yyD-4" target="OY-AIXFyE-CHNUBA_yyD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-4" value="Isi form kunjungan" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY-AIXFyE-CHNUBA_yyD-6" target="OY-AIXFyE-CHNUBA_yyD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-6" value="Kirim" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-8" value="daftar kunjungan" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.667;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.559;exitY=0.043;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OY-AIXFyE-CHNUBA_yyD-8" target="OY-AIXFyE-CHNUBA_yyD-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="50" as="sourcePoint" />
+            <mxPoint x="615" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1027" y="40" />
+              <mxPoint x="640" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY-AIXFyE-CHNUBA_yyD-15" target="OY-AIXFyE-CHNUBA_yyD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-15" value="Daftar buku" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY-AIXFyE-CHNUBA_yyD-17" target="OY-AIXFyE-CHNUBA_yyD-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-17" value="Pencarian" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY-AIXFyE-CHNUBA_yyD-19" target="OY-AIXFyE-CHNUBA_yyD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-19" value="memasukan kata kunci" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY-AIXFyE-CHNUBA_yyD-21" target="OY-AIXFyE-CHNUBA_yyD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-21" value="Hasil pencarian" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-23" value="Detail buku" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY-AIXFyE-CHNUBA_yyD-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.448;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OY-AIXFyE-CHNUBA_yyD-15" target="OY-AIXFyE-CHNUBA_yyD-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="330" as="sourcePoint" />
+            <mxPoint x="610" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="613" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

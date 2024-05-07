@@ -1,0 +1,1 @@
+export { default } from "file:///home/pplgchrome6/project-main/perpus-digital-alfi/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
