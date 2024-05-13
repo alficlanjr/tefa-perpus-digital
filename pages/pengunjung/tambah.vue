@@ -14,6 +14,9 @@
                         </select>
                     </div>
                     <div class="mb-3">
+                     <div v-if="form.keanggotaan ==  1">
+
+                    
                         <div class="row">
                             <div class="col-md-4">
                                 <select  v-model="form.tingkat" class="form-control form-control-lg form-select rounded-5 mb-2">
@@ -60,6 +63,7 @@
                         <nuxt-link to="/" class="btn btn-primary btn-lg rounded-5 px-5">
                         back
                         </nuxt-link>
+                    </div>
                     </div>
                     
                 </form>

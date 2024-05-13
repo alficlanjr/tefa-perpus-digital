@@ -8,7 +8,7 @@
                         <input v-model="keyword" type="search" class="form-control rounded-5" placeholder="Mau baca apa hari ini?"> 
                     </form>
                 </div>
-                <div class="my-3 text-muted">menampilkan {{ books.length}}dari {{ book }}</div>
+                <div class="my-3 text-muted">menampilkan {{ books.length}} dari {{ book }}</div>
                 <div class="row">
                     <div v-for="(book,i) in books" :key="i" class="col-lg-2">
                         <div class="card mb-4">
@@ -45,6 +45,7 @@ const hitungData = async() => {
 }
 onMounted(() => {
     getBooks()
+    hitungData()
 })
 </script>
 
@@ -62,7 +63,5 @@ onMounted(() => {
 .buku {
     width: 100%;
     height: 100%;
-    object-fit: buku;
-    object-position: 0 30;
 }
 </style>
